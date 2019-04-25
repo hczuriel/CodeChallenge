@@ -1,5 +1,4 @@
 # CodeChallenge
-Entrevista
 //Ejercicio 1
 //Eliminar los ceros finales de cualquier número que se mande
 var num;
